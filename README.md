@@ -1,7 +1,7 @@
 # Odoo Messenger Bot
 This is a Telegram bot built using the python-telegram-bot library, designed to interact with users and provide responses. It is intended for integration with the Odoo system and responds to different user commands and messages.
 
-![Odoo Messenger Bot](image/odoo_bot.webp)
+<img src="image/odoo_bot.webp" alt="Odoo Messenger Bot" width="300" height="300"/>
 
 ## Features
 - Start Command: Greets the user when the bot is started.
