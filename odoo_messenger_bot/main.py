@@ -42,8 +42,6 @@ async def global_error_handler(
         # In case the error handler itself throws an error, log it
         logging.error(f"Error in the global error handler: {e}")
 
-
-
 # Commands
 try:
     async def start_command(
@@ -76,7 +74,6 @@ try:
 
 except Exception as e:
     logging.error(f"An unexpected error ocurred: {e}")
-
 
 # Responses
 def handle_response(text: str) -> str:
