@@ -58,10 +58,3 @@ If you'd like to contribute to this project, feel free to open a pull request or
 
 ## License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
-
-
-
-
-
-
